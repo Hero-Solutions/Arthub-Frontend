@@ -73,4 +73,4 @@ gem 'blacklight-gallery'
 
 gem 'twitter-typeahead-rails', '0.11.1.pre.corejavascript'
 
-gem 'pul_uv_rails'
+gem 'pul_uv_rails', '~> 2.0', '>= 2.0.1'
