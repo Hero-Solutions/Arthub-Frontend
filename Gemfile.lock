@@ -171,6 +171,7 @@ GEM
       pry (~> 0.13.0)
     pry-rails (0.3.9)
       pry (>= 0.10.4)
+    pul_uv_rails
     puma (3.12.6)
     rack (2.2.2)
     rack-test (0.6.3)
@@ -303,8 +304,7 @@ DEPENDENCIES
   mirador_rails (~> 0.7.0)
   pry-byebug
   pry-rails
-  pul_uv_rails
-  puma (~> 3.12)
+  puma (~> 3.0)
   rails (~> 5.0.0)
   rails-i18n
   rake (~> 12.3)
@@ -323,4 +323,4 @@ DEPENDENCIES
   web-console
 
 BUNDLED WITH
-   2.1.2
+   2.1.4
