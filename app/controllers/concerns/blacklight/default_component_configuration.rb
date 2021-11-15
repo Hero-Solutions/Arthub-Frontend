@@ -21,10 +21,10 @@ module Blacklight
       # add_nav_action(:english, partial: 'blacklight/nav/english')
       # add_nav_action(:dutch, partial: 'blacklight/nav/dutch')
 
-      add_nav_action(:collections, partial: 'blacklight/nav/collections')
-      add_nav_action(:how_to_use, partial: 'blacklight/nav/how_to_use')
-      add_nav_action(:open_data, partial: 'blacklight/nav/open_data')
-      add_nav_action(:open_source, partial: 'blacklight/nav/open_source')
+      # add_nav_action(:collections, partial: 'blacklight/nav/collections')
+      # add_nav_action(:how_to_use, partial: 'blacklight/nav/how_to_use')
+      # add_nav_action(:open_data, partial: 'blacklight/nav/open_data')
+      # add_nav_action(:open_source, partial: 'blacklight/nav/open_source')
       add_nav_action(:locale, partial: 'shared/locale_picker')
     end
 
