@@ -47,7 +47,7 @@ class ImagesController < ApplicationController
       logoService['@context'] = "http://iiif.io/api/image/2/context.json"
       logoService['profile'] = "http://iiif.io/api/image/2/level2.json"
 
-      logoUrl = view_context.image_path('logo-arthub.jpg')
+      logoUrl = view_context.image_path('logo-arthub.png')
 
       repository = @document.fetch(:repository)
       publish_image = @document.fetch(:publish_image)

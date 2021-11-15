@@ -31,7 +31,7 @@ module ApplicationHelper
   end
 
   def meta_image
-    content_for?(:meta_image) ? content_for(:meta_image) : image_url('logo-arthub.jpg')
+    content_for?(:meta_image) ? content_for(:meta_image) : image_url('logo-arthub.png')
   end
 
   def meta_image_alt
