@@ -17,12 +17,12 @@ en:
       previous: '&laquo; Previous'
       next: 'Next &raquo;'
 
-  meta_description: 'Explore Arthub Flanders, a catalogue containing %{total_count} objects from the Flemish Museums of Visual Arts.'
-  meta_description_search_results: 'Explore Arthub Flanders, a catalogue containing objects from the Flemish Museums of Visual Arts.'
+  meta_description: 'Explore Arthub Musea Brugge, a catalogue containing %{total_count} objects from the Musea Brugge.'
+  meta_description_search_results: 'Explore Arthub Musea Brugge, a catalogue containing objects from the Musea Brugge.'
   image_alt: 'No image available'
 
   blacklight:
-    application_name: 'Arthub Flanders'
+    application_name: 'Arthub Musea Brugge'
 
     header_links:
       login: 'Login'
@@ -31,7 +31,7 @@ en:
       saved_searches: 'Saved Searches'
       search_history: 'History'
 
-    welcome: 'Arthub Flanders'
+    welcome: 'Arthub Musea Brugge'
     and: 'and'
     or: 'or'
 

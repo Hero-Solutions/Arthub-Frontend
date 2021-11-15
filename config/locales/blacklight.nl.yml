@@ -17,12 +17,12 @@ nl:
       previous: '&laquo; Vorige'
       next: 'Volgende &raquo;'
 
-  meta_description: 'Verken Arthub Flanders, een catalogus met %{total_count} objectbeschrijvingen uit de Vlaamse Musea voor Beeldende Kunsten.'
-  meta_description_search_results: 'Verken Arthub Flanders, een catalogus met objectbeschrijvingen uit de Vlaamse Musea voor Beeldende Kunsten.'
+  meta_description: 'Verken Arthub Musea Brugge, een catalogus met %{total_count} objectbeschrijvingen uit de Musea Brugge.'
+  meta_description_search_results: 'Verken Arthub Musea Brugge, een catalogus met objectbeschrijvingen uit de Musea Brugge.'
   image_alt: 'Geen afbeelding beschikbaar'
 
   blacklight:
-    application_name: 'Arthub Flanders'
+    application_name: 'Arthub Musea Brugge'
 
     header_links:
       login: 'Login'
@@ -31,7 +31,7 @@ nl:
       saved_searches: 'Bewaarde zoekopdrachten'
       search_history: 'Geschiedenis'
 
-    welcome: 'Arthub Flanders'
+    welcome: 'Arthub Musea Brugge'
     and: 'en'
     or: 'of'
 
