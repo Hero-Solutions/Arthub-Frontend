@@ -172,6 +172,7 @@ nl:
         button_label: '%{count} per pagina'
         title: 'Toon aantal zoekresultaten per pagina'
         submit: 'Update'
+        aria_label: 'Results navigation'
       sort:
         label: 'Sorteer op %{field}'
         submit: 'sorteer resultaten'
